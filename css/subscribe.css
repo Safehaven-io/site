@@ -1,0 +1,138 @@
+/*
+#newsletter {
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+    max-width: 780px;
+    min-width: 320px;
+    display: block;
+    text-align: center;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+#newsletter .wrap {
+    padding: 50px 40px;
+}
+
+#newsletter h3 {
+    font-family: 'Raleway', sans-serif;
+    display: block;
+    font-size:26px;
+    font-weight:400;
+    line-height:1.2;
+    color:#fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom:20px;
+    margin: 0 auto 30px auto;
+    border-bottom:1px solid #fff;
+    width:60%;
+}
+
+#newsletter p {
+    font-size:14px;
+    line-height:26px;
+    margin-bottom:25px;
+    color:#fff;
+}
+
+#newsletter input {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight:500;
+    display: block;
+    width:55%;
+    background:#fff;
+    color:#888;
+    padding:15px;
+    text-align: center;
+    margin: 0 auto 12px auto;
+    border:2px solid #fff;
+    outline:0;
+    border-radius: 3px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#newsletter input:focus {
+    border:2px solid #ddd;
+}
+
+#newsletter input[type="submit"] {
+    background:#f77156;
+    color:#fff;
+    width:30%;
+    padding:13px;
+    cursor: pointer;
+    margin-bottom:0;
+    border:none;
+}
+
+#newsletter input[type="submit"]:hover {
+    background:#F8CA4D;
+    color:#444;
+}
+
+#newsletter .arrow {
+    display: inline-block;
+    background: url("../images/arrow.png") no-repeat;
+    width: 139px;
+    height: 48px;
+    position: absolute;
+    left: 120px;
+    top: 290px;
+}*/
+
+#newsletter #response {
+    color: #fff;
+    font-size: 1.4em;
+    height: 25px;
+    /*margin: 0 auto;*/
+    padding-top: 15px;
+    text-align: center;
+    width: 320px;
+}
+
+#newsletter #response p {
+    margin: 0;
+	color: #ffffff;
+    font-size: 12px;
+    float: left;
+    line-height: 12px;
+	padding: 5px 0px 0px 5px;
+}
+
+/*#newsletter .loading {
+    background: url("../images/loading.gif") no-repeat center 20px;
+}
+
+@media only screen and (max-width:769px) {
+
+    #newsletter .wrap {
+        padding: 40px 25px;
+    }
+
+    #newsletter .arrow {
+        display: none;
+    }
+
+    #newsletter input {
+        width: 100%;
+        margin-bottom: 7px;
+    }
+
+    #newsletter input[type="submit"] {
+        width: 100%;
+        padding: 16px;
+    }
+
+}
+
+@media only screen and (max-width:600px) {
+
+    #newsletter h3 {
+        width: 100%;
+    }
+
+}*/
